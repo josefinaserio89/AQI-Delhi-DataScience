@@ -1,5 +1,5 @@
 # Proyecto Final: Predicción de índices de calidad del aire (AQI) para distintas estaciones de monitoreo en Delhi
-# Diplomatura en Ciencia de Datos y Análisis Avanzado – UTN
+## Diplomatura en Ciencia de Datos y Análisis Avanzado – UTN
 
 ## Descripción
 Este proyecto tiene como objetivo predecir el índice de calidad del aire (AQI) en Delhi utilizando modelos de ciencia de datos.
@@ -22,7 +22,7 @@ Se utilizó un dataset público extraído de Kaggle: https://www.kaggle.com/data
 El código se encuentra en este repositorio y puede ejecutarse directamente desde Colab.
 
 ## Autores TP final
-Andrea Saad
-Patricia Blua
-Laura Gómez
-María Josefina Serio
+-Andrea Saad
+-Laura Gómez
+-Patricia Blua
+-María Josefina Serio
